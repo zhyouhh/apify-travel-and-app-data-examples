@@ -1,0 +1,14 @@
+{
+  "mode": "reviews",
+  "appIds": [
+    "310633997"
+  ],
+  "countries": [
+    "us"
+  ],
+  "maxReviewsPerApp": 0,
+  "reviewSort": "recent",
+  "reviewsSince": "-90",
+  "minRating": 1,
+  "maxRating": 2
+}

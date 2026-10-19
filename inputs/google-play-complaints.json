@@ -1,0 +1,17 @@
+{
+  "mode": "reviews",
+  "appIds": [
+    "com.spotify.music"
+  ],
+  "countries": [
+    "us"
+  ],
+  "languages": [
+    "en"
+  ],
+  "maxReviewsPerApp": 1000,
+  "reviewSort": "recent",
+  "reviewsSince": "-30",
+  "minRating": 1,
+  "maxRating": 2
+}

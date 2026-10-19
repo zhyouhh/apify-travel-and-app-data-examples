@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "SFO-NRT"
+  ],
+  "departureDates": [
+    "+45"
+  ],
+  "tripType": "round-trip",
+  "returnAfterDays": 10,
+  "returnFlightsFor": 3,
+  "currency": "USD"
+}

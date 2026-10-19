@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "JFK-LAX",
+    "SFO-NRT"
+  ],
+  "departureDates": [
+    "+30"
+  ],
+  "additionalDays": 6,
+  "cabinClass": "economy",
+  "adults": 1,
+  "maxStops": "1",
+  "currency": "USD"
+}

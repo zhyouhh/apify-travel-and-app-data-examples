@@ -1,0 +1,8 @@
+{
+  "name": "apify-travel-and-app-data-examples",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "apify-client": "^2.12.0"
+  }
+}

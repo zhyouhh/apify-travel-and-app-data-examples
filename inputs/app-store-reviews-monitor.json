@@ -1,0 +1,13 @@
+{
+  "mode": "reviews",
+  "appIds": [
+    "310633997",
+    "com.burbn.instagram"
+  ],
+  "countries": [
+    "us"
+  ],
+  "maxReviewsPerApp": 200,
+  "monitorMode": true,
+  "monitorKey": "competitors-daily"
+}

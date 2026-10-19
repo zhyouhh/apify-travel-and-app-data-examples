@@ -1,0 +1,15 @@
+{
+  "mode": "reviews",
+  "appIds": [
+    "com.spotify.music",
+    "https://play.google.com/store/apps/details?id=com.duolingo"
+  ],
+  "countries": [
+    "us"
+  ],
+  "languages": [
+    "en"
+  ],
+  "maxReviewsPerApp": 1000,
+  "reviewSort": "recent"
+}

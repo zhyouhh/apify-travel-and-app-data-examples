@@ -1,0 +1,11 @@
+{
+  "mode": "apps",
+  "appIds": [
+    "com.whatsapp",
+    "com.mojang.minecraftpe"
+  ],
+  "countries": [
+    "us",
+    "de"
+  ]
+}

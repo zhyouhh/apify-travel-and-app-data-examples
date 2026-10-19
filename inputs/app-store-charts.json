@@ -1,0 +1,9 @@
+{
+  "mode": "charts",
+  "chart": "top-grossing",
+  "chartGenre": "6014",
+  "countries": [
+    "gb"
+  ],
+  "maxChartResults": 100
+}

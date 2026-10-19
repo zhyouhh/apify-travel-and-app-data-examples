@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "NYC-LON"
+  ],
+  "departureDates": [
+    "+60"
+  ],
+  "additionalDays": 3,
+  "currency": "USD",
+  "monitorMode": true,
+  "monitorKey": "nyc-london-60-days-out"
+}
